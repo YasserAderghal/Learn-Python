@@ -1,7 +1,5 @@
 # 🐍 30 Days Of Python
 
-  <strong>Learn with Asabeneh by joining the upcoming [<em>CODING BOOTCAMP</em>](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform) </strong>
-
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
